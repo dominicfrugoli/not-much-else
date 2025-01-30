@@ -19,7 +19,7 @@ This repository holds the Max patch that was made for the performance.
 
 ### Built With
 
-- [Max/MSP](https://puredata.info/)
+- [Max/MSP](https://cycling74.com/products/max)
 
 ## Contact
 
